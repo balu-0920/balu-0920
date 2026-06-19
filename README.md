@@ -55,7 +55,6 @@ CSE Pre-Final Year @ IIITDM Jabalpur | Competitive Programmer | Full-Stack & AI 
 
 ## 📊 GitHub Stats
 
-![Balu's GitHub stats](https://github-readme-stats.vercel.app/api?username=balu-0920\&show_icons=true\&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balu-0920\&layout=compact\&theme=tokyonight)
 
