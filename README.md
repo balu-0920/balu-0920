@@ -56,8 +56,8 @@ CSE Pre-Final Year @ IIITDM Jabalpur | Competitive Programmer | Full-Stack & AI 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balu-0920&layout=compact&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=balu-0920&theme=tokyonight" height="170"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balu-0920&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=balu-0920&theme=tokyonight"/>
 </p>
 
 ---
