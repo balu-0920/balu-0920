@@ -10,7 +10,6 @@ CSE Pre-Final Year @ IIITDM Jabalpur | Competitive Programmer | Full-Stack & AI 
 
 * 🎓 Pursuing a B.Tech in Computer Science and Engineering at **IIIT Jabalpur**, currently in my second year with a **CPI of 9.0**.
 * 💻 Passionate about **Software Engineering, Data Structures & Algorithms, and Full-Stack Development**.
-* 🏆 Solved **350+ problems on LeetCode** and actively participate in competitive programming contests.
 * 🌱 Currently exploring **Node.js and Machine Learning** while continuously improving my development and problem-solving skills.
 * 🎯 Aspiring Software Engineer focused on building scalable applications and impactful real-world solutions.
 
@@ -20,8 +19,8 @@ CSE Pre-Final Year @ IIITDM Jabalpur | Competitive Programmer | Full-Stack & AI 
 
 ### Programming Languages
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
